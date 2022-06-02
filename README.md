@@ -1,12 +1,16 @@
 # AURORA-WRO2022
-The Aurora bot is a Self Driving bot which is programmed to drive autonomously and avoid obstacles
+The Aurora bot is a Self Driving bot which is programmed to drive autonomously and avoid obstacles with the use of sensors and motors present in the LEGO Mindstorms EV3 kit.
 
 TEAM DETAILS:
 
-Team name: Aurora\n
+Team name: Aurora
+
 Country: India
+
 Team members: Julia Mariam John, Siddhi Mishra, Swetha Anantha Krishnan
+
 Coach: Leena C Kurian
+
 
 Link to YouTube video:
 TBD
@@ -59,3 +63,5 @@ The programming platform used for the coding of the self driving robot is Lego M
 
 SCHEMATIC DIAGRAM:
 Below is a schematic diagramatic representation consisting of all the electromechanical components (sensors, motors, bricks, etc) used in building the Aurora bot.
+![image](https://user-images.githubusercontent.com/106696079/171681999-9533f90d-acc1-4f0b-bba2-c51194248033.png)
+
