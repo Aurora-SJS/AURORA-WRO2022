@@ -1,36 +1,54 @@
 # AURORA-WRO2022
-The Aurora bot is a Self Driving bot which is programmed to drive autonomously and avoid obstacles with the use of sensors and motors present in the LEGO Mindstorms EV3 kit.
+The Aurora bot is a Self Driving bot which is programmed to drive autonomously and avoid obstacles with the use of sensors and motors present in the LEGO Mindstorm EV3 kit.
 
 TEAM DETAILS:
 
 Team name: Aurora
-
 Country: India
-
 Team members: Julia Mariam John, Siddhi Mishra, Swetha Anantha Krishnan
-
 Coach: Leena C Kurian
+
+ENGINEERING MATERIALS:
+
+This repository contains engineering materials of the Aurora bot participating in the WRO Future Engineers competition in the season 2022.
+
+CONTENTS:
+
+- t-photos: contains 2 photos of the team (an official one and one funny photo with all team members)
+- v-photos: contains 6 photos of the vehicle (from every side, from top and bottom)
+video contains the video.md file with the link to a video where driving demonstration exists
+- schemes: contains one or several schematic diagrams in form of JPEG, PNG or PDF of the electromechanical components illustrating all the elements (electronic components and motors) used in the vehicle and how they connect to each other.
+- src: contains code of control software for all components which were programmed to participate in the competition
+
+
+Team photos:
+'''
+'''
+
+Vehicle photos:
+'''
 
 
 Link to YouTube video:
 TBD
 
-Engineering materials:
 
-The below mentioned are Team Aurora's engineering materials used to develop the Aurora bot, which will compete in the 2022 WRO- Future Engineers category.
+CODES:
+'''
 
-CONTENTS:
 
-- '' contains photos of all the team members
-- Bot photos contains photos of our robot.
-- YT link contains the link to the YouTube video of the Aurora bot.
-- Schematic diagram which includes a diagramatic representation of the electromechanical components (sensors, motors, bricks, etc) used in building the Aurora bot.
-- Code contains the self diving autonomous car's program 
+SCHEMATIC DIAGRAM:
+
+Below is a schematic diagramatic representation consisting of all the electromechanical components (sensors, motors, bricks, etc) used in building the Aurora bot.
+![image](https://user-images.githubusercontent.com/106696079/171681999-9533f90d-acc1-4f0b-bba2-c51194248033.png)
 
 
 INTRODUCTION:
 
-ELECTROMECHANICAL COMPONENTS: The programming platform used for the coding of the self driving robot is Lego Mindstorm Education EV3
+''''
+
+ELECTROMECHANICAL COMPONENTS:
+The Aurora bot is built using the Lego EV3 Mindstorm's robotics kit. The brief description of each electromechanical component (sesors, motors and bricks) used in building this robot are given as folllows in order to understand the code and functionality of each component better.
 
 I.Sensors: 
 
@@ -56,12 +74,7 @@ III.Brick:
 The EV3 Brick is the primary component of our robot. It supplies power to the robot and controls all its movements and actions. It is the part which stores all the programs neccessary for the functioning of the robot. It consists of 4 buttons, i.e power/OK button, off button, left and right, all of which help in assisting the robot in its movement.
 ![95646c01](https://user-images.githubusercontent.com/106700080/171619375-7eee289d-01fd-4aba-97f0-a269a7bf2e48.png)
 
-
 CODING:
 
 The programming platform used for the coding of the self driving robot is Lego Mindstorm Education EV3. Many programs were combined using My Block Builder. 
-
-SCHEMATIC DIAGRAM:
-Below is a schematic diagramatic representation consisting of all the electromechanical components (sensors, motors, bricks, etc) used in building the Aurora bot.
-![image](https://user-images.githubusercontent.com/106696079/171681999-9533f90d-acc1-4f0b-bba2-c51194248033.png)
 
