@@ -64,9 +64,10 @@ CODES:
 SCHEMATIC DIAGRAM:
 
 Below is a schematic diagramatic representation consisting of all the electromechanical components (sensors, motors, bricks, etc) used in building the Aurora bot.
-![WhatsApp Image 2022-06-03 at 1 29 01 PM](https://user-images.githubusercontent.com/106696079/171836957-54a75286-5bce-4296-8584-059ce6420b93.jpeg)
+![image](https://user-images.githubusercontent.com/106696079/171904332-d82dfe63-95bb-4265-972c-6caba5cb76f6.png)
 
-![WhatsApp Image 2022-06-03 at 1 29 06 PM](https://user-images.githubusercontent.com/106696079/171836976-fdfce064-069a-49d4-8f45-9fe8d08fd81a.jpeg)
+![image](https://user-images.githubusercontent.com/106696079/171904397-d14051a3-60bc-42c5-b880-a6edc69ce7bd.png)
+
 
 
 
