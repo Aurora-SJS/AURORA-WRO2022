@@ -26,7 +26,28 @@ Team photos:
 '''
 
 Vehicle photos:
-'''
+Below are the photos of the 6 faces of the self driving autonomous car
+
+1. FRONT FACE
+![WhatsApp Image 2022-06-03 at 9 17 23 AM (1)](https://user-images.githubusercontent.com/106696079/171837966-497f6148-867b-45cc-aa9c-6b5332a7d534.jpeg)
+
+
+3. BACK FACE
+![WhatsApp Image 2022-06-03 at 9 17 22 AM](https://user-images.githubusercontent.com/106696079/171838048-bfd83159-3e3f-4cd0-bf11-ea756e1a67a7.jpeg)
+
+
+5. LEFT FACE
+![WhatsApp Image 2022-06-03 at 9 17 24 AM](https://user-images.githubusercontent.com/106696079/171837920-4160e6b0-e391-4e20-b0ae-0b66691ec97c.jpeg)
+
+5. RIGHT FACE
+![WhatsApp Image 2022-06-03 at 9 17 23 AM](https://user-images.githubusercontent.com/106696079/171838028-63df65c1-c916-4022-b702-6ac953e553ef.jpeg)
+
+
+5. TOP FACE
+![WhatsApp Image 2022-06-03 at 9 17 25 AM](https://user-images.githubusercontent.com/106696079/171837825-19367640-988b-488f-8df9-93b840d154ac.jpeg)
+
+6. BOTTOM FACE
+![WhatsApp Image 2022-06-03 at 9 17 24 AM (1)](https://user-images.githubusercontent.com/106696079/171838523-71788c1c-d4f2-4c06-821f-53ce8ac302de.jpeg)
 
 
 Link to YouTube video:
@@ -40,7 +61,10 @@ CODES:
 SCHEMATIC DIAGRAM:
 
 Below is a schematic diagramatic representation consisting of all the electromechanical components (sensors, motors, bricks, etc) used in building the Aurora bot.
-![image](https://user-images.githubusercontent.com/106696079/171681999-9533f90d-acc1-4f0b-bba2-c51194248033.png)
+![WhatsApp Image 2022-06-03 at 1 29 01 PM](https://user-images.githubusercontent.com/106696079/171836957-54a75286-5bce-4296-8584-059ce6420b93.jpeg)
+
+![WhatsApp Image 2022-06-03 at 1 29 06 PM](https://user-images.githubusercontent.com/106696079/171836976-fdfce064-069a-49d4-8f45-9fe8d08fd81a.jpeg)
+
 
 
 INTRODUCTION:
