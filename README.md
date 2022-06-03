@@ -5,7 +5,7 @@ TEAM DETAILS:
 
 Team name: Aurora
 
-Country: India
+Country: United Arab Emirates
 
 Team members: Julia Mariam John, Siddhi Mishra, Swetha Anantha Krishnan
 
