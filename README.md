@@ -25,8 +25,15 @@ video contains the video.md file with the link to a video where driving demonstr
 
 
 Team photos:
-'''
-'''
+
+(i) Official photo
+
+![7e1b7b7c-2982-4b2a-8266-b68c0cefb7a4](https://user-images.githubusercontent.com/106700080/171985051-18c89952-cc6f-429a-a65d-662ee0f4bedf.jpg)
+
+(ii)Funny photo
+
+![a25caa08-96ec-4d0d-a15c-63aa7ddac2f9](https://user-images.githubusercontent.com/106700080/171985076-b3e320bb-512e-44fe-99ee-9ffc179eb4fc.jpg)
+
 
 Vehicle photos:
 Below are the photos of the 6 faces of the self driving autonomous car
@@ -73,7 +80,7 @@ Below is a schematic diagramatic representation consisting of all the electromec
 
 INTRODUCTION:
 
-''''
+The Aurora bot is a Self Driving bot which is programmed to drive autonomously and avoid obstacles with the use of sensors and motors present in the LEGO Mindstorm EV3 kit.
 
 ELECTROMECHANICAL COMPONENTS:
 The Aurora bot is built using the Lego EV3 Mindstorm's robotics kit. The brief description of each electromechanical component (sesors, motors and bricks) used in building this robot are given as folllows in order to understand the code and functionality of each component better.
