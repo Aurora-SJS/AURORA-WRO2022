@@ -111,7 +111,7 @@ II.Motors:
 
 III.Brick:
 
-The EV3 Brick is the primary component of our robot. It supplies power to the robot and controls all its movements and actions. It is the part which stores all the programs neccessary for the functioning of the robot. It consists of 4 buttons, i.e power/OK button, off button, left and right, all of which help in assisting the robot in its movement.
+The EV3 Brick is the primary component of our robot. It supplies power to the robot and controls all its movements and actions. It is the part which stores all the programs neccessary for the functioning of the robot. It consists of 4 buttons, i.e power/OK button, off button, left and right, all of which help in assisting the robot in its move
 
 ![95646c01](https://user-images.githubusercontent.com/106700080/171619375-7eee289d-01fd-4aba-97f0-a269a7bf2e48.png)
 
